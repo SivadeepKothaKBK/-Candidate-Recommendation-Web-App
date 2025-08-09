@@ -1,0 +1,6 @@
+streamlit>=1.20
+sentence-transformers>=2.2.2
+torch
+PyPDF2>=3.0.0
+python-docx>=0.8.11
+numpy
